@@ -1,0 +1,82 @@
+{
+	"base_dir": "../Mntone.IkaConnect/Mntone.IkaConnect.Windows/Assets/",
+	"targets": [
+		{
+			"files": [
+				{ "src": "SmallLogo.svg", "dst": "Tile70x70.scale-{0}.png" },
+				{ "src": "SmallLogo.svg", "dst": "Tile70x70.scale-{0}_contrast-black.png" },
+				{ "src": "SmallLogo_contrast-white.svg", "dst": "Tile70x70.scale-{0}_contrast-white.png" }
+			],
+			"size": [[80, 56], [100, 70], [140, 98], [180, 126]]
+		},
+		{
+			"files": [
+				{ "src": "SmallLogo.svg", "dst": "Tile150x150.scale-{0}.png" },
+				{ "src": "SmallLogo.svg", "dst": "Tile150x150.scale-{0}_contrast-black.png" },
+				{ "src": "SmallLogo_contrast-white.svg", "dst": "Tile150x150.scale-{0}_contrast-white.png" }
+			],
+			"size": [[80, 120], [100, 150], [140, 210], [180, 270]]
+		},
+		{
+			"files": [
+				{ "src": "WideLogo.svg", "dst": "Tile310x150.scale-{0}.png" },
+				{ "src": "WideLogo.svg", "dst": "Tile310x150.scale-{0}_contrast-black.png" },
+				{ "src": "WideLogo_contrast-white.svg", "dst": "Tile310x150.scale-{0}_contrast-white.png" }
+			],
+			"size": [[80, 248], [100, 310], [140, 434], [180, 558]]
+		},
+		{
+			"files": [
+				{ "src": "SmallLogo.svg", "dst": "Tile310x310.scale-{0}.png" },
+				{ "src": "SmallLogo.svg", "dst": "Tile310x310.scale-{0}_contrast-black.png" },
+				{ "src": "SmallLogo_contrast-white.svg", "dst": "Tile310x310.scale-{0}_contrast-white.png" }
+			],
+			"size": [[80, 248], [100, 310], [140, 434], [180, 558]]
+		},
+		{
+			"files": [
+				{ "src": "AppList.svg", "dst": "AppList30x30.scale-{0}.png" },
+				{ "src": "AppList.svg", "dst": "AppList30x30.scale-{0}_contrast-black.png" },
+				{ "src": "AppList_contrast-white.svg", "dst": "AppList30x30.scale-{0}_contrast-white.png" }
+			],
+			"size": [[80, 24], [100, 30], [140, 42], [180, 54]]
+		},
+		{
+			"files": [
+				{ "src": "AppList.svg", "dst": "AppList30x30.targetsize-{0}.png" },
+				{ "src": "AppList.svg", "dst": "AppList30x30.targetsize-{0}_contrast-black.png" },
+				{ "src": "AppList_contrast-white.svg", "dst": "AppList30x30.targetsize-{0}_contrast-white.png" }
+			],
+			"size": [
+				[16, 16], [20, 20], [24, 24], [28, 28], [30, 30], [32, 32], [36, 36], [40, 40], [42, 42],
+				[48, 48], [54, 54], [60, 60], [64, 64], [72, 72], [80, 80], [84, 84], [96, 96], [108, 108],
+				[112, 112], [120, 120], [128, 128], [144, 144], [256, 256], [320, 320], [384, 384],
+				[448, 448], [512, 512], [576, 576], [640, 640]
+			]
+		},
+		{
+			"files": [
+				{ "src": "AppList.svg", "dst": "StoreLogo.scale-{0}.png" },
+				{ "src": "AppList.svg", "dst": "StoreLogo.scale-{0}_contrast-black.png" },
+				{ "src": "AppList_contrast-white.svg", "dst": "StoreLogo.scale-{0}_contrast-white.png" }
+			],
+			"size": [[100, 50], [140, 70], [180, 90]]
+		},
+		{
+			"files": [
+				{ "src": "AppList.svg", "dst": "BadgeLogo.scale-{0}.png" },
+				{ "src": "AppList.svg", "dst": "BadgeLogo.scale-{0}_contrast-black.png" },
+				{ "src": "AppList_contrast-white.svg", "dst": "BadgeLogo.scale-{0}_contrast-white.png" }
+			],
+			"size": [[100, 24], [140, 33], [180, 43]]
+		},
+		{
+			"files": [
+				{ "src": "WideLogo.svg", "dst": "SplashScreen.scale-{0}.png" },
+				{ "src": "WideLogo.svg", "dst": "SplashScreen.scale-{0}_contrast-black.png" },
+				{ "src": "WideLogo_contrast-white.svg", "dst": "SplashScreen.scale-{0}_contrast-white.png" }
+			],
+			"size": [[100, 620], [140, 868], [180, 1116]]
+		}
+	]
+}
